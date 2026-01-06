@@ -1,0 +1,1 @@
+Para garantir compatibilidade em diferentes ambientes, a entrada de dados é feita via texto digitado, simulando a etapa de Speech-to-Text. A resposta do ChatGPT é convertida em áudio utilizando Google Text-to-Speech (gTTS).
