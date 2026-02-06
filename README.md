@@ -1,6 +1,6 @@
-# 🎙️ ChatGPT com Entrada de Texto e Saída em Áudio
+# ChatGPT com Entrada de Texto e Saída em Áudio
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto simula uma **interação por voz com o ChatGPT**, priorizando **compatibilidade entre diferentes ambientes**.
 
@@ -9,7 +9,7 @@ A resposta gerada pelo ChatGPT é convertida em **áudio**, utilizando o **Googl
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Simular uma aplicação de conversação por voz
 * Garantir funcionamento em ambientes sem suporte a microfone
@@ -18,7 +18,7 @@ A resposta gerada pelo ChatGPT é convertida em **áudio**, utilizando o **Googl
 
 ---
 
-## ⚙️ Como Funciona
+## Como Funciona
 
 1. O usuário digita uma mensagem (simulando Speech-to-Text)
 2. O texto é enviado ao ChatGPT
@@ -28,7 +28,7 @@ A resposta gerada pelo ChatGPT é convertida em **áudio**, utilizando o **Googl
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python**
 * **ChatGPT (OpenAI API)**
@@ -37,7 +37,7 @@ A resposta gerada pelo ChatGPT é convertida em **áudio**, utilizando o **Googl
 
 ---
 
-## 📂 Estrutura do Projeto (Exemplo)
+## Estrutura do Projeto (Exemplo)
 
 ```bash
 📁 projeto-chatgpt-tts
@@ -50,24 +50,22 @@ A resposta gerada pelo ChatGPT é convertida em **áudio**, utilizando o **Googl
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 * Python **3.8 ou superior**
 * Conexão com a internet
 
 ---
 
-## 📦 Instalação das Dependências
+## Instalação das Dependências
 
 ```bash
 pip install gtts
 ```
 
-> Adicione outras dependências conforme o projeto evoluir.
-
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 ```bash
 python main.py
@@ -81,7 +79,7 @@ Após executar:
 
 ---
 
-## 🚀 Possíveis Melhorias Futuras
+## Possíveis Melhorias Futuras
 
 * Integração real com Speech-to-Text (Whisper, Google Speech API)
 * Interface gráfica (Tkinter, Electron ou Web)
@@ -89,9 +87,7 @@ Após executar:
 * Ajuste de voz, velocidade e tom do áudio
 * Deploy como aplicação web ou API
 
----
 
-## 📄 Licença
 
 Este projeto é de uso **educacional e experimental**.
 
